@@ -1,5 +1,5 @@
 """
-Image processing functions used by the screenshot_comparison module
+Image processing functions used by the image_comparison module
 to compute the image similarity metric and to generate visual diff
 images in case of similarity test failures.
 """

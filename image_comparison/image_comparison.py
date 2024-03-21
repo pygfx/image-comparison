@@ -1,6 +1,6 @@
 import imageio.v3 as iio
 
-from .image_processing import (
+from .utils import (
     generate_diff,
     image_similarity,
     normalize_image,
