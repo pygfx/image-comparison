@@ -5,5 +5,4 @@ version_info = tuple(map(int, __version__.split(".")))
 
 del version
 
-from .image_comparison import *
-from .utils import *
+from .image_comparison import compare_images
